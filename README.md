@@ -1,7 +1,8 @@
-<h2 align="center">I'm Ahmed Mahmoud, a flutter developer</h2>
-🎓 I'm an undergraduate student in the Faculty Of Engineering, computers and control systems department.
+<h1 align="center">👋 I'm Ahmed Mahmoud — Flutter Developer</h1>
 
-▶️ I'm interseted in mobile applications development.
+🎓 I'm a Software Developer who graduated from the Faculty of Engineering, Computers and Control Systems Department.
+
+💡 I'm passionate about **mobile application development**, especially using the **Flutter framework** to build clean, efficient, and user-friendly apps.
 
 
 <h2 align="left">connect with me:</h2>
