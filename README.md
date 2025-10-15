@@ -1,6 +1,6 @@
 <h1 align="center">👋 I'm Ahmed Mahmoud — Flutter Developer</h1>
 
-🎓 I'm a Software Developer who graduated from the Faculty of Engineering, Computers and Control Systems Department.
+🎓 I'm a Software Developer who graduated from Faculty of Engineering, Computers and Control Systems Department.
 
 💡 I'm passionate about **mobile application development**, especially using the **Flutter framework** to build clean, efficient, and user-friendly apps.
 
