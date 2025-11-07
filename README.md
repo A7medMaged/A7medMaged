@@ -7,10 +7,41 @@
 
 <h2 align="left">connect with me:</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/ahmed-maged-0805681b5"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/a7medmaged17/"><img src="https://img.shields.io/badge/facebook-%230866FF?style=flat&logo=facebook&logoColor=white"/></a>
-<a href="https://t.me/A7medMaged"><img src="https://img.shields.io/badge/telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
-<a href="https://twitter.com/AhmeddMaged"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=X&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ahmed-maged-0805681b5" target="_blank" rel="noopener noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"
+       alt="LinkedIn"
+       height="28"
+       style="background-color:#1FA1F1; padding:6px; border-radius:8px; vertical-align:middle; margin-right:25px; filter:brightness(0) invert(1);" />
+</a>
+
+<a href="https://www.facebook.com/a7medmaged17/" target="_blank" rel="noopener noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png"
+       alt="Facebook"
+       height="28"
+       style="background-color:#1FA1F1; padding:6px; border-radius:8px; vertical-align:middle; margin-right:25px; filter:brightness(0) invert(1);" />
+</a>
+
+<a href="https://t.me/A7medMaged" target="_blank" rel="noopener noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"
+       alt="Telegram"
+       height="28"
+       style="background-color:#1FA1F1; padding:6px; border-radius:8px; vertical-align:middle; margin-right:25px; filter:brightness(0) invert(1);" />
+</a>
+
+<a href="https://twitter.com/AhmeddMaged" target="_blank" rel="noopener noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg"
+       alt="Twitter (X)"
+       height="28"
+       style="background-color:#1FA1F1; padding:6px; border-radius:8px; vertical-align:middle; margin-right:25px; filter:brightness(0) invert(1);" />
+</a>
+
+<a href="https://ahmedmaged.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://assets.vercel.com/image/upload/front/assets/design/vercel-triangle-black.svg"
+       alt="Vercel"
+       height="28"
+       style="background-color:#1FA1F1; padding:6px; border-radius:8px; vertical-align:middle; filter:brightness(0) invert(1);" />
+</a>
+
 </p>
 
 
@@ -33,25 +64,25 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>Python</strong>
+        <span><strong>Fastlane</strong>
         </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
+        <img height="64px" src="https://cdn.svgporn.com/logos/fastlane.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>C</strong>
+        <span><strong>Postman</strong>
         </span><br><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/postman.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>Java</strong>
+        <span><strong>GitHub</strong>
         </span><br><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+        <img height="64px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png">
       </td>
       <td width="25%" align="center">
-        <span><strong>Arduino</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg">
+        <span><strong>BloC / Cubit</strong></span><br><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/felangel/bloc/master/assets/logos/flutter_bloc.png">
       </td>
       <td width="25%" align="center">
         <span><strong>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
